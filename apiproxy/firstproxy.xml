@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="firstproxy">
+    <Basepaths>/firstproxy</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1605022123566</CreatedAt>
+    <CreatedBy>brunohbr123@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>firstproxy</DisplayName>
+    <LastModifiedAt>1605022123566</LastModifiedAt>
+    <LastModifiedBy>brunohbr123@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:054a128cb888d05b02aefe6692de638bb6740c725ae139228986c8d2b6cc275d8aa65a132ea055c0c368d1ac3f1aada12daa75e407ef382cea195c58fed332f2</ManifestVersion>
+    <Policies>
+        <Policy>add-cors</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
