@@ -156,12 +156,12 @@
             <id>prod</id>
             <properties>
                 <apigee.profile>prod</apigee.profile>
-                <apigee.hosturl>https://api.enterprise.apigee.com</apigee.hosturl>
-                <apigee.apiversion>v1</apigee.apiversion>
+                <apigee.hosturl>https://brunohbr123-eval-test.apigee.net</apigee.hosturl>
+                <!-- <apigee.apiversion>v1</apigee.apiversion> -->
                 <apigee.org>onlineman477-eval</apigee.org>
                 <apigee.env>prod</apigee.env>
-                <apigee.username>${username}</apigee.username>
-                <apigee.password>${password}</apigee.password>
+                <apigee.username>brunohbr123@gmail.com</apigee.username>
+                <apigee.password>Eissoai9090@</apigee.password>
                 <!-- <apigee.authtype>oauth</apigee.authtype> optional: oauth|basic(default) -->
                 <!-- <apigee.tokenurl>https://login.apigee.com/oauth/token</apigee.tokenurl> optional: oauth -->
                 <!-- <apigee.mfatoken>${mfatoken}</apigee.mfatoken> optional: mfa -->
